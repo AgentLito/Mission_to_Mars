@@ -2,24 +2,26 @@
 Jupyter Notebook
 Project Overview
 
-In this project we are performing web scraping from active Nasa’s websites in order to retrieve information about Nasa’s latest article, featured picture, Mars facts and images of Mars Hemispheres. All retrieved data are put together in a single web application to showcase the gathered information.
+For this project we are performing web scraping from active Nasa’s websites in order to retrieve information about Nasa’s latest article, featured picture, Mars facts and images of Mars Hemispheres. All retrieved data are put together in a single web application to showcase the gathered information.
 
 Resources
 
 Data Source:
 
-https://mars.nasa.gov/news/
-https://redplanetscience.com/
 https://spaceimages-mars.com
 https://astrogeology.usgs.gov/search/results?q=hemisphere+enhanced&k1=target&v1=Mars
+https://mars.nasa.gov/news/
+https://redplanetscience.com/
+
 Environment:
 
 Python 3.7
 Dependencies:
 
 Beautiful Soup and Splinter
-Chrome Developer Tool to identify HTML and CSS components.
 Beautiful Soup (extracts data) and Splinter (automates web browsers) to automate the scrape jupyter notebook.
+Chrome Developer Tool to identify HTML and CSS components.
+
 Languages:
 
 HTML, CSS, Bootstrap 3 and Python
