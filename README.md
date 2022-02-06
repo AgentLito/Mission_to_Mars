@@ -33,6 +33,8 @@ Jupyter Notebook, VS Code, MongoDB, Flask and Chrome
 MongoDB, MongoDB is a source-available cross-platform document-oriented database program. Classified as a NoSQL database program, MongoDB uses JSON-like documents with optional schemas.
 Flask to render the data and create a web application app.py.
 Requirements:
+![Mission-to-Mars-hemisphere_Center_thumb](https://user-images.githubusercontent.com/91812090/152693337-16375ff9-39ef-4261-a4b4-8e6f690c4266.png)
+
 
 Scrape Full-Resolution Mars Hemisphere Images and Titles
 Update the Web App with Mars Hemisphere Images and Titles
@@ -42,3 +44,6 @@ Add Bootstrap 3 Components
 Styling the "Scrape New Data" button
 Customizing the facts table.
 Adding the hemisphere images as thumbnails.
+
+![Mars-hemisphere_Center_thumb_Custom](https://user-images.githubusercontent.com/91812090/152693375-e373b3f9-fa31-4bcf-94fe-a3379ec7fc4e.png)
+
